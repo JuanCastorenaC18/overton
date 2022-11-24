@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hospedaje"
+        android:title="Hospedaje"
+        android:icon="@drawable/ic_localhome"
+        android:iconTint="@color/vino"/>
+    <item
+        android:id="@+id/calendario"
+        android:title="Calendario"
+        android:icon="@drawable/ic_localcalendar"/>
+    <item
+        android:id="@+id/promocion"
+        android:title="Promociones"
+        android:icon="@drawable/iconpromo"/>
+    <item
+        android:id="@+id/favorito"
+        android:title="Favorito"
+        android:icon="@drawable/ic_localfavorito"/>
+</menu>
